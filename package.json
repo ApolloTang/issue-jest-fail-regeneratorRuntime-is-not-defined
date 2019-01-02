@@ -14,6 +14,7 @@
     "regenerator-runtime": "^0.13.1"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "clearCache": "jest --cached"
   }
 }

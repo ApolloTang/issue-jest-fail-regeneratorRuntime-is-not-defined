@@ -1,0 +1,9 @@
+The following solution make sense but does not work:
+
+  https://www.google.com/search?q=jest+regeneratorRuntime+is+not+defined&oq=jest+regeneratorRuntime+is+not+defined&aqs=chrome..69i57j69i60l3.1706j0j7&sourceid=chrome&ie=UTF-8
+
+  https://github.com/facebook/jest/issues/3126
+
+  https://github.com/wallabyjs/public/issues/1289
+
+  https://github.com/facebook/jest/issues/5698
